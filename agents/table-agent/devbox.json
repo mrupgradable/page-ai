@@ -8,7 +8,8 @@
   },
   "shell": {
     "init_hook": [
-      "alias ai.install.claude-code='npm install @anthropic-ai/claude-code'"
+      "alias ai.claude.run='npx claude'",
+      "npm install"
     ],
     "scripts": {
       "test": [
