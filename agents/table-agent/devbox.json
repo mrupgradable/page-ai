@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.0/.schema/devbox.schema.json",
+  "packages": [
+    "nodejs@23.11.0"
+  ],
+  "env": {
+    "DEVBOX_COREPACK_ENABLED": "true"
+  },
+  "shell": {
+    "init_hook": [
+      "alias ai.install.claude-code='npm install @anthropic-ai/claude-code'"
+    ],
+    "scripts": {
+      "test": [
+        "echo \"Error: no tests specified\" && exit 1"
+      ]
+    }
+  }
+}
