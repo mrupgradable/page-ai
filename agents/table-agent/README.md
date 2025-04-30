@@ -46,6 +46,11 @@ Could do this as part of the `Table Prompt`, just convenience for separate termi
 3. `npm install`
 4. `npm run dev`
 
+### Unlink for next generation
+As this is a "workbench" code will not be committed from here → rather where ever the sym link is.
+However, simply unlink the dir and follow the steps to generate again.
+1. `rm web-app`
+
 ## Resources
 * [Claude Code MCP](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/tutorials#set-up-model-context-protocol-mcp)
 * [Context7 MCP Config](https://github.com/upstash/context7?tab=readme-ov-file#install-in-claude-code)

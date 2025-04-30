@@ -35,3 +35,6 @@ package-lock.json
 # design
 *.bkp
 .svelte-kit/
+
+# ignoring 'AI generated' web-app
+web-app/
