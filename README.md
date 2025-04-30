@@ -20,3 +20,6 @@ Fundamental Questions:
 * A2A for agent to agent communication
 * Agent can use any AI
 * Refining AI Agent content with MCP
+
+## Table Agent
+See [Table Agent](./agents/table-agent/README.md)
